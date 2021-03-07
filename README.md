@@ -3,7 +3,7 @@
 </h1>
 
 <h1>
-    <img src="img/final.png">
+    <img src="img/final.PNG">
 </h1>
 
 ## 🧾 Sobre
