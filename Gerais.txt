@@ -1,0 +1,35 @@
+<!-- ÍCONES -->
+<link rel="stylesheet" href="https://unpkg.com/@coreui/icons@2.0.0-beta.3/css/all.min.css">
+
+<!-- FONTE POPPINS -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&display=swap" rel="stylesheet">
+
+Facebook
+<i class="cib-facebook-f"></i>
+
+Instagram
+<i class="cib-instagram"></i>
+
+Twitter
+<i class="cib-twitter"></i>
+
+Youtube
+<i class="cib-youtube"></i>
+
+CORES
+Lilás
+#BB6BD9
+
+Roxo
+#9938DF
+
+Rosa
+#E5215C
+
+Botão pulse rosa
+rgba(229, 33, 92, .5)
+
+Botão pulse preto
+(229, 33, 92, 0)
+
